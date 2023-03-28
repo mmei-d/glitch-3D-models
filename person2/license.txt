@@ -1,11 +1,11 @@
 Model Information:
-* title:	PIFuHD image to dancing man
-* source:	https://sketchfab.com/3d-models/pifuhd-image-to-dancing-man-2c4200eb77e440b9aded1a00b7b82937
-* author:	patspet (https://sketchfab.com/patspet)
+* title:	Susan
+* source:	https://sketchfab.com/3d-models/susan-ee5799e9d6bd465d95bf45371e116ebe
+* author:	lioness7 (https://sketchfab.com/lioness7)
 
 Model License:
 * license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
 * requirements:	Author must be credited. Commercial use is allowed.
 
 If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
-This work is based on "PIFuHD image to dancing man" (https://sketchfab.com/3d-models/pifuhd-image-to-dancing-man-2c4200eb77e440b9aded1a00b7b82937) by patspet (https://sketchfab.com/patspet) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+This work is based on "Susan" (https://sketchfab.com/3d-models/susan-ee5799e9d6bd465d95bf45371e116ebe) by lioness7 (https://sketchfab.com/lioness7) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
